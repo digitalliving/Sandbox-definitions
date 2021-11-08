@@ -6,4 +6,4 @@ trigger:
 pr: none
 
 steps:
-  - script: "echo New standards available"
+  - script: "echo New Sandbox definitions available"
