@@ -1,5 +1,5 @@
 Definitions for
-[Data Products](https://github.com/digitalliving/Sandbox-definitions/tree/master/draft/DataProducts)
+[Data Products](https://github.com/digitalliving/sandbox-definitions/tree/master/draft/DataProducts)
 must conform to the following set of rules:
 
 ## Definition specification format

@@ -11,7 +11,7 @@ are subjects to change at any time._
 ## Contribution guidelines
 
 We accept contributions to this repository via
-[Pull Requests](https://github.com/digitalliving/Sandbox-definitions/pulls). You can
+[Pull Requests](https://github.com/digitalliving/sandbox-definitions/pulls). You can
 fork the repository, make your suggested changes in there, and then submit a Pull
 Request via GitHub.
 
